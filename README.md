@@ -6,7 +6,7 @@ Il progetto Museo VR è un'esperienza immersiva in realtà virtuale creata con U
 
 ## 🎮 Descrizione del progetto
 
-Museo VR è un progetto interattivo che combina arte, scienza e storia all'interno di un ambiente tridimensionale progettato per la realtà virtuale. Il progetto è stato sviluppato utilizzando Unity 6 con URP (Universal Render Pipeline), in combinazione con il toolkit MRTK (Mixed Reality Toolkit), per supportare un'esperienza VR avanzata e compatibile con diversi dispositivi.
+Museo VR è un progetto interattivo che combina arte, scienza e storia all'interno di un ambiente tridimensionale progettato per la realtà virtuale. Il progetto è stato sviluppato utilizzando Unity 2022.3 LTS con URP (Universal Render Pipeline), in combinazione con il toolkit MRTK (Mixed Reality Toolkit), per supportare un'esperienza VR avanzata e compatibile con diversi dispositivi.
 
 🎥 Anteprima:
 
